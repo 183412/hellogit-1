@@ -1,3 +1,10 @@
+<student>
+        <firstname>Andrzej</firstname>
+        <lastname>Jagielski</lastname>
+        <email>andjagielski@gmail.com</email>
+        <github>sirskan</github>
+        <group>KrDzIs3012Io</group>
+    </student>
 <?xml version="1.0" encoding="UTF-8"?>
 
 <students>
@@ -85,7 +92,20 @@
     	<lastname> Dolezalek</lastname>
     	<email> luki6021@wp.pl</email>
     	<github> luki6021</github>
-    	<group> KrDZIs3011Io</group>
+    	<group> KrD<student>
+        <firstname> Lukasz</firstname>
+        <lastname> Dolezalek</lastname>
+        <email> luki6021@wp.pl</email>
+        <github> luki6021</github>
+        <group> KrDZIs3011Io</group>
+</student>ZIs3011Io</group>
+</student>
+<student>
+        <firstname>Arkadiusz</firstname>
+        <lastname>Sienko</lastname>
+        <email> sienkoarkadiusz@gmail.com</email>
+        <github> 183412</github>
+        <group> KrZZIs3011Io</group>
 </student>
 
 
